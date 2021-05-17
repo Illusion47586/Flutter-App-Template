@@ -1,0 +1,3 @@
+class BrandSpacing {
+  // static
+}

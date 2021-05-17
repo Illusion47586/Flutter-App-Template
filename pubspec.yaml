@@ -1,0 +1,38 @@
+---
+name: my_app
+description: A new Flutter project.
+publish_to: none
+version: 1.0.0+1
+environment:
+  sdk: ">=2.12.0 <3.0.0"
+dependencies:
+  flutter:
+    sdk: flutter
+  auto_animated: ^3.0.0
+  auto_size_text: ^3.0.0-nullsafety.0
+  cached_network_image: ^3.0.0
+  cross_connectivity: ^3.0.2
+  cupertino_icons: ^1.0.2
+  dio: ^4.0.0
+  flutter_fgbg: ^0.1.0
+  flutter_screenutil: ^5.0.0+2
+  flutter_svg: ^0.21.0-nullsafety.0
+  get: ^4.1.4
+  google_fonts: ^2.1.0
+  json_annotation: ^4.0.1
+  octo_image: ^1.0.0+1
+  permission_handler: ^6.1.1
+  pin_code_fields: ^7.0.0
+  responsive_builder: ^0.4.1
+  share: ^2.0.1
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  device_preview: ^0.7.1
+  import_sorter: ^4.4.2
+  build_runner:
+  json_serializable: ^4.1.0
+  logger: ^1.0.0
+  pretty_dio_logger: ^1.1.1
+flutter:
+  uses-material-design: true
